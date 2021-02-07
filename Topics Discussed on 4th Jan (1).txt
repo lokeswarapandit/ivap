@@ -1,0 +1,20 @@
+Physical Architecture
+Regions / Availability Zones / Data Centers/Racks
+Logical Architecture
+Management Group
+Subscription
+Resource Group
+Resource
+How to create an Azure Account  i.e. portal.azure.com
+
+
+**In the physical architecture where maintainence is too high 
+**All over the world azure is located more than 60+ regions
+**In availability zone we have 3 zones
+**there will be a multiple data centers and multiple racks
+
+
+**logical architecture contains the many datacenters and racks which is maintained by azure
+**there will be the different management groups and each management group can be changed to other management group
+**subscriptions will have RG and the resources and which may be moved from any where in the same directory account
+**tags which is used to identify the exact location of virtual machines even after the many years by selecting the evironment,location,department,type 
