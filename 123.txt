@@ -1,0 +1,84 @@
+Doubts
+--------
+
+What happens is we give the NSG none while creating the VM-> nothing happens just the vm will be created
+
+How to get to know the vnets are connected after connecting b/w the virtual network gate ways ->same as like peering using the private ip which is in the vms or vns
+
+y the peering is showing a request timed out even after the connection of 2machines -> v should do only one at a time eitheR peering or connecting vnets using VNG
+
+
+y we want to disable the boot diagnostics -> the boot diagnostics is disabled bcoz at present v r nt using any locks 
+
+How the tags will be useful?
+
+What does TCP mean? Transmission control protocol
+
+y does the location is not changing 
+
+how can we communicate the ASG1 and AS2?
+
+y in firewall vm dont have  public ports and public ip?
+
+how the resource groups will be created automatically?
+
+why the nat rule of transalated address is not accepting the vm2?
+
+how to add  machines when the utilization of the cpu  is increasing in the website or app?
+
+what is the exact meaning for downtime in vertical and horizontal scaling?
+
+how can we know the load is decreased and to change the cpu size when its not in custom like VMSS?
+
+does the azure load balancewr work only in the transport layer(layer 4)? How many layers are there?
+
+what does public ports mean?
+
+How to get to know that the port445 is opened or not while connecting to the file share in the storage account?
+
+How to mount the drive for the multiple of employees at a time?
+
+why IE enchanced security configuration need to be turned off in the remote desktop connection?
+
+have a few doubts in webapp create the webapp and ask about its options in it?
+
+Exact meaning for snapshot?
+
+What is CNAME and A record?
+
+How can we know that traffic is coming in a secure manner by using the certificate
+
+What does the certificate mean and how to use these certificate for the traffic to come in a secure manner?
+
+While creating the web app and web service plan whether the RG should also be the same region?
+
+What does the backup in webapp will not increment in nature?
+
+What does the snapshot is incremented in nature in webapp?
+
+Whether we need to create the container registries as well?
+
+what does orchastretaion mean in AKS?
+
+How can we run multiple containers in one POD during complex deployments?
+
+what is the use of having the linux based OS in the node pool(default)?
+
+what is the ACI in the virtual nodes in the AKS?
+
+How can we deploy the virtual kubelet component agent in the AKS and how can we use the ACI
+
+How can we use the ACR as well as a private image repository?
+
+Exact meaning for onpremise?
+
+what does retain instant recovery snapshots mean?
+
+what does kusto query mean?
+
+
+can we do both the types of alerts?like to get a notification and also to trigger the logic app and webhook?
+
+what does sample rate mean in diagnostics?
+
+

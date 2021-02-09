@@ -1,0 +1,14 @@
+GitHub
+------
+
+Top10 Commands of Git:
+
+1) git init-> It is used to create the blank repository in the working directory
+
+2) git add . ->It is used to add the files 
+
+3) git commit-> The command helps to keep a record of all the changes have made and it is used to save the changes to the local repository
+
+4) git status-> It is used to know the status of the files
+
+5) git merge-> It is used to merge the branches
